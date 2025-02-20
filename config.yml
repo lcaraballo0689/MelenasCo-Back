@@ -1,0 +1,10 @@
+db:
+  host: "192.168.0.90"
+  port: 5432
+  user: "postgres"
+  password: "Samira15."
+  dbname: "melenas"
+
+rocketfy:
+  x_secret: "a1c5997f4a6605ddc21ad22666d0a2a6f50052dc901fd700f401c6fe9258b4aa782105c19387255948c62cf838a682da52033a84501729a74cb94fb84f25a949.83d58dbea5b38947"
+  x_api_key: "kALAc2tS3eYqQBITdTIt76solg1Y5WhqNZ8FDtzIJXQ="
